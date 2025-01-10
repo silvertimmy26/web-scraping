@@ -5,5 +5,5 @@ This challenge involved identifying HTML elements on a page, scraping their data
 `part_2_mars_weather.ipynb` - Scrape and analyze Mars Weather data.  
 ## File structure  
 The part-1 and part-2 folders have all the contents needed for their respective grading.  
-part-1 has `part_1_mars_news.ipynb` containing my code, and `mars_news.json` that I completed as an optional task.  
-part-2 has `part_2_mars_weather.ipynb` containing my code, and `mars_weather.csv` for the required CSV output.
+part-1 has `part_1_mars_news.ipynb` containing my code, and `mars_news.json` that outputs the news in JSON format.  
+part-2 has `part_2_mars_weather.ipynb` containing my code, and `mars_weather.csv` that contains a DataFrame filled with the scraped Mars data.
